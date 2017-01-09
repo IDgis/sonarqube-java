@@ -2,3 +2,7 @@
 .classpath
 .project
 .settings
+/bin/
+sonar-project.properties
+.sonar_lock
+report-task.txt
